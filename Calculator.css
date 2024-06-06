@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    /* border: 0px 0px  10px grey; */
+    position: absolute;
+    background-color: burlywood;
+    top: 10%;
+    left: 36%;
+    height: 250px;
+    width: 400px;
+    padding: 10px;
+}
+.calculator{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+#a{
+    text-align: center;
+    margin: 10px;
+}
+.first input{
+    padding: 2px 5px;
+}
+.second button{
+    padding: 2px 5px;
+    margin-left: 10px;
+}
